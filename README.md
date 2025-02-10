@@ -7,7 +7,6 @@ Este projeto consiste em um sistema simples de gerenciamento de pet shop, implem
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Executar o Projeto](#como-executar-o-projeto)
 - [Exemplo de Uso](#exemplo-de-uso)
 
 ## Descrição do Projeto
@@ -67,26 +66,6 @@ src/
 - **Persistência**: Arquivos .txt
 - **Paradigma**: Programação Orientada a Objetos (POO)
 - **Design**: Interface e abstração para modularidade
-
-## Como Executar o Projeto
-### Pré-requisitos:
-- Ter o **Java JDK 8** ou superior instalado.
-- Um editor ou IDE, como **IntelliJ IDEA** ou **Eclipse**.
-
-### Passos para execução:
-1. Clone o repositório:
-   ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd petshop
-   ```
-2. Compile o código:
-   ```sh
-   javac -d bin src/**/*.java
-   ```
-3. Execute a aplicação:
-   ```sh
-   java -cp bin Main
-   ```
 
 ## Exemplo de Uso
 Após executar o sistema, o usuário pode:
